@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/weather-1-replacement/static/css/main.3b108101.css",
+    "main.js": "/weather-1-replacement/static/js/main.60b77089.js",
+    "static/js/787.799aa781.chunk.js": "/weather-1-replacement/static/js/787.799aa781.chunk.js",
+    "static/media/cold-weather.jpg": "/weather-1-replacement/static/media/cold-weather.5c6c17111ed6af954327.jpg",
+    "static/media/hot-weather.jpg": "/weather-1-replacement/static/media/hot-weather.fc53336934167e7f5b73.jpg",
+    "static/media/default-weather.jpg": "/weather-1-replacement/static/media/default-weather.be47cbcd9b273ce4ac27.jpg",
+    "static/media/rain-weather.jpg": "/weather-1-replacement/static/media/rain-weather.299c0f2546ab5378b5fb.jpg",
+    "static/media/glyphicons-halflings-regular.svg": "/weather-1-replacement/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/glyphicons-halflings-regular.ttf": "/weather-1-replacement/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/weather-1-replacement/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/weather-1-replacement/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/weather-1-replacement/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/weather-1-replacement/index.html",
+    "main.3b108101.css.map": "/weather-1-replacement/static/css/main.3b108101.css.map",
+    "main.60b77089.js.map": "/weather-1-replacement/static/js/main.60b77089.js.map",
+    "787.799aa781.chunk.js.map": "/weather-1-replacement/static/js/787.799aa781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b108101.css",
+    "static/js/main.60b77089.js"
+  ]
+}
