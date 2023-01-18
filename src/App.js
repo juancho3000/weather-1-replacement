@@ -17,7 +17,6 @@ const API_key = "36f9a175d9c4096f8585a4df81f68181";
 class App extends Component{
   constructor(){
     super();
- 
     this.state={
       loading:false,
       icon:undefined,
@@ -36,7 +35,6 @@ class App extends Component{
         width: '100%',
         height: '100vh',
       }
-
       };
       this.weatherIcon = {
         Thunderstorm:"wi-thunderstorm",

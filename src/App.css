@@ -1,18 +1,8 @@
-/*.App{
-   background: url("./imgs-weather/default-weather.jpg");
-   background-repeat: no-repeat;
-   background-size: cover;
-   height: 100vh;
-   width: 100vw;
- }*/
-
-
  .container{
   display: flex;
   justify-content: center;
   height: 230px;
 }
-
 
 .col-md-3-1{
   width: 120vh;
@@ -26,8 +16,6 @@
   font-size: large;
    
 }
-
-
 
 .form-control{
 display: block;
@@ -108,8 +96,6 @@ font-size: large;
   display: flex;
 }
 
-
-
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -120,8 +106,6 @@ font-size: large;
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
-
 
 @keyframes fadeOut {
  100%{
