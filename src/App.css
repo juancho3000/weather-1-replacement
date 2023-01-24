@@ -4,6 +4,10 @@
   height: 230px;
 }
 
+.App{
+  background-image: url(./imgs-weather/default-weather.jpg);
+}
+
 .col-md-3{
   position: inherit;
 }
