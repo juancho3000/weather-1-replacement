@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/weather-1-replacement/static/css/main.3ba3af5c.css",
+    "main.css": "/weather-1-replacement/static/css/main.9077af65.css",
     "main.js": "/weather-1-replacement/static/js/main.60b77089.js",
     "static/js/787.799aa781.chunk.js": "/weather-1-replacement/static/js/787.799aa781.chunk.js",
     "static/media/cold-weather.jpg": "/weather-1-replacement/static/media/cold-weather.5c6c17111ed6af954327.jpg",
@@ -18,12 +18,12 @@
     "static/media/glyphicons-halflings-regular.eot": "/weather-1-replacement/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
     "static/media/glyphicons-halflings-regular.woff2": "/weather-1-replacement/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
     "index.html": "/weather-1-replacement/index.html",
-    "main.3ba3af5c.css.map": "/weather-1-replacement/static/css/main.3ba3af5c.css.map",
+    "main.9077af65.css.map": "/weather-1-replacement/static/css/main.9077af65.css.map",
     "main.60b77089.js.map": "/weather-1-replacement/static/js/main.60b77089.js.map",
     "787.799aa781.chunk.js.map": "/weather-1-replacement/static/js/787.799aa781.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ba3af5c.css",
+    "static/css/main.9077af65.css",
     "static/js/main.60b77089.js"
   ]
 }
