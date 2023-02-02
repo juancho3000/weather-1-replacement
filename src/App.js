@@ -7,7 +7,7 @@ import Background from './imgs-weather/default-weather.jpg';
 import Hot from './imgs-weather/hot-weather.jpg';
 import Rain from './imgs-weather/rain-weather.jpg';
 import 'bootstrap/dist/css/bootstrap.min.css';
-//import "weather-icons/css/weather-icons.css";  
+import "weather-icons/css/weather-icons.css";  
 import './App.css';
 
 //api call

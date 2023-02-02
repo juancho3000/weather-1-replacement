@@ -114,6 +114,10 @@ font-size: large;
   color: white;
 }
 
+.wi {
+  font-size: xxx-large;
+}
+
 @keyframes fadeOut {
  100%{
    opacity:0;
