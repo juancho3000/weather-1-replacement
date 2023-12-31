@@ -12,7 +12,7 @@ if(props.loading){
 
 else{
     return(  
-      <div className='row'> 
+      <div className='row' style={{marginTop:8}}> 
       <div>{props.error ? error() : null}</div>
     <div className="col-md-3">
       <button className="btn-warning" type="submit" >Get weather for your location
@@ -23,8 +23,8 @@ else{
     )
         function error() {
         return(
-          <div className="alert-danger" type="alert">
-             Please type a city name
+          <div className="error-content" type="alert">
+             <p className="alert-danger">Please type a city name</p>
           </div>
       );
       }

@@ -92,7 +92,7 @@ font-size: large;
   cursor: pointer;
 }
 
-.alert-danger{
+.error-content{
   display: flex;
   justify-content: center;
   font-size: medium;
