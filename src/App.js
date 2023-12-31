@@ -34,6 +34,7 @@ class App extends Component{
         backgroundPosition: 'center',
         width: '100%',
         height: '100vh',
+        overflow: 'hidden',
       }
 
       };

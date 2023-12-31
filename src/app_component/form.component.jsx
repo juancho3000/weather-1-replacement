@@ -15,10 +15,7 @@ const Form = props => {
             </div>
             <div className='row'>
 
-      <div className="col-md-3">
-        <button className="btn-warning" type="submit" >Get weather for your location
-          </button>
-        </div>
+      
         
       </div> 
           </div>
