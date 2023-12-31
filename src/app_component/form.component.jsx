@@ -5,7 +5,7 @@ const Form = props => {
       <div className="container">
         <form onSubmit={props.loadWeather}>
           <div className="row">
-            <div className="col-md-3-1">
+            <div>
               <input
                 type="text"
                 className="form-control"

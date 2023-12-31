@@ -27,14 +27,15 @@ class App extends Component{
       description:"",
       error:false,
 
-     /* backgroundStyle:{
+      backgroundStyle:{
         backgroundImage:undefined,
         backgroundSize: 'cover',
         backgroundRepeat: 'no-repeat',
         backgroundPosition: 'center',
         width: '100%',
         height: '100vh',
-      }*/
+      }
+
       };
       this.weatherIcon = {
         Thunderstorm:"wi-thunderstorm",
@@ -170,7 +171,7 @@ class App extends Component{
   render(){ 
         return(        
           <div class="App" >
-            <div id='main-test'>
+            <div id='main-test' style={this.state.backgroundStyle}>
           <Form loadWeather={this.getWeather} />  
          <UsePageLoader loading={this.state.loading} error={this.state.error}/> 
          <Weather 
