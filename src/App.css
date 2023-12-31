@@ -1,11 +1,16 @@
  .container{
   display: flex;
   justify-content: center;
-  height: 230px;
 }
 
-.App{
+#main-test{
   background-image: url(./imgs-weather/default-weather.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 121vh;
+
 }
 
 .col-md-3{
@@ -23,7 +28,10 @@
   align-items: center;
   font-size: large;
   color: black;
-   
+  gap: 10px;
+  height: 63%;
+  justify-content: center;
+  position: relative; 
 }
 
 .form-control{
@@ -47,7 +55,7 @@ font-size: large;
   display: flex;
 }
 
-.app{
+/*.app{
   width: 100vh;
   height: 100vh;
   justify-content: center;
@@ -55,7 +63,7 @@ font-size: large;
   display: flex;
   margin: auto;
 
-}
+}*/
 
 .loader {
   border: 16px solid #f3f3f3; /* Light grey */

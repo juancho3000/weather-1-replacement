@@ -27,14 +27,14 @@ class App extends Component{
       description:"",
       error:false,
 
-      backgroundStyle:{
+     /* backgroundStyle:{
         backgroundImage:undefined,
         backgroundSize: 'cover',
         backgroundRepeat: 'no-repeat',
         backgroundPosition: 'center',
         width: '100%',
         height: '100vh',
-      }
+      }*/
       };
       this.weatherIcon = {
         Thunderstorm:"wi-thunderstorm",
@@ -169,8 +169,9 @@ class App extends Component{
   //rendering and return of API values - beginning
   render(){ 
         return(        
-          <div class="App" style={this.state.backgroundStyle}>
-         <Form loadWeather={this.getWeather} />  
+          <div class="App" >
+            <div id='main-test'>
+          <Form loadWeather={this.getWeather} />  
          <UsePageLoader loading={this.state.loading} error={this.state.error}/> 
          <Weather 
           city={this.state.city}
@@ -179,6 +180,9 @@ class App extends Component{
           description={this.state.description}
           weatherIcon={this.state.icon}
             />  
+            
+            </div>
+       
           </div>        
         );     
       }
