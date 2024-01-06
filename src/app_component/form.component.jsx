@@ -13,10 +13,7 @@ const Form = props => {
                 placeholder='type city name'
                 autoComplete="off"/>
             </div>
-            <div className='row'>
-
-      
-        
+            <div className='row'>  
       </div> 
           </div>
         </form>
