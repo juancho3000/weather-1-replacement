@@ -22,7 +22,7 @@ else{
         function error() {
         return(
           <div className="error-content" type="alert">
-             <p className="alert-danger">Please type a city name</p>
+             <p className="alert-danger">Please type a city name or a correct one</p>
           </div>
       );
       }
