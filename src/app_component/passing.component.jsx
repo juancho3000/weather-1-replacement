@@ -12,7 +12,8 @@ else{
       <div className='row' style={{marginTop:8}}> 
       <div>{props.error ? error() : null}</div>
     <div className="col-md-3">
-      <button className="btn-warning" type="submit" >Get weather for your location
+      <button className="btn-warning" type="submit" >
+        click to get weather info
         </button>
       </div>
     </div> 
