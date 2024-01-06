@@ -1,14 +1,11 @@
-import React from "react";
-//import { useState } from "react";
-//import { getWeather } from '../App'
 import PageLoader from "./loading.component";
 
-function UsePageLoader(props){
+const UsePageLoader = ({props}) => {
 if(props.loading){
     return(
         <PageLoader/>
     )
- } 
+ }
 
 else{
     return(  
@@ -22,6 +19,7 @@ else{
   
     )
         function error() {
+          setTimeout
         return(
           <div className="error-content" type="alert">
              <p className="alert-danger">Please type a city name</p>
