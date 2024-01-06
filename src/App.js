@@ -120,7 +120,7 @@ class App extends Component{
       }
     }
     );
-  }else{
+  }else if (temp){
     this.setState({
       backgroundStyle:{
         ...this.state.backgroundStyle,

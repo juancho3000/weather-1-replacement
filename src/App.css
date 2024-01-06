@@ -50,15 +50,12 @@ font-size: large;
   display: flex;
 }
 
-/*.app{
-  width: 100vh;
-  height: 100vh;
-  justify-content: center;
-  align-items: center;
-  display: flex;
-  margin: auto;
+.App{
+background-image:url('./imgs-weather/default-weather.jpg') ;
+background-repeat: no-repeat;
+background-size: cover;
 
-}*/
+}
 
 .loader {
   border: 16px solid #f3f3f3; /* Light grey */
